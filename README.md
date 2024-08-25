@@ -13,7 +13,7 @@ This project is a simple web scraping script that extracts product information s
 
 • Saves the scraped data into a structured CSV file.
 
-Prerequisites
+ # Prerequisites
 
 • Python 3.x
 
